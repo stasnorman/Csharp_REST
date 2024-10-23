@@ -1,0 +1,6 @@
+@OpenDoor_HostAddress = http://localhost:5236
+
+GET {{OpenDoor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

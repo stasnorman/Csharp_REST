@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\services\\iuserservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\services\\iuserservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\services\\icomicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\services\\icomicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\services\\comicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\services\\comicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|c:\\users\\burnf\\source\\repos\\opendoor\\opendoor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32FC6F7E-0130-4002-B707-124890FBA8C2}|OpenDoor\\OpenDoor.csproj|solutionrelative:opendoor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\Genre.cs",
+              "RelativeToolTip": "OpenDoor\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:23:54.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Comic.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\Comic.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Models\\Comic.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\Comic.cs",
+              "RelativeToolTip": "OpenDoor\\Models\\Comic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:28:24.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserServcie.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\IUserServcie.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Services\\IUserServcie.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\IUserServcie.cs",
+              "RelativeToolTip": "OpenDoor\\Services\\IUserServcie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:41:19.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IComicService.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\IComicService.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Services\\IComicService.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\IComicService.cs",
+              "RelativeToolTip": "OpenDoor\\Services\\IComicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:41:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\JWTService.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Services\\JWTService.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\JWTService.cs",
+              "RelativeToolTip": "OpenDoor\\Services\\JWTService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwC4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:52:58.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Services\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\IJwtService.cs",
+              "RelativeToolTip": "OpenDoor\\Services\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:52:27.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\LoginModel.cs",
+              "RelativeToolTip": "OpenDoor\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:00:04.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\User.cs",
+              "RelativeToolTip": "OpenDoor\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:03:06.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComicService.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\ComicService.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Services\\ComicService.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\ComicService.cs",
+              "RelativeToolTip": "OpenDoor\\Services\\ComicService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:19:51.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Services\\UserService.cs",
+              "RelativeToolTip": "OpenDoor\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:05:17.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Program.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Program.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Program.cs",
+              "RelativeToolTip": "OpenDoor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:43:09.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComicsController.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Controllers\\ComicsController.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Controllers\\ComicsController.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Controllers\\ComicsController.cs",
+              "RelativeToolTip": "OpenDoor\\Controllers\\ComicsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:54:44.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OpenDoor\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OpenDoor\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T07:30:47.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OpenDoor\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:41:30.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OpenDoor\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:41:39.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "OpenDoor\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\Models\\Author.cs",
+              "RelativeToolTip": "OpenDoor\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:41:40.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\appsettings.json",
+              "RelativeDocumentMoniker": "OpenDoor\\appsettings.json",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\OpenDoor\\OpenDoor\\appsettings.json",
+              "RelativeToolTip": "OpenDoor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T05:51:25.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

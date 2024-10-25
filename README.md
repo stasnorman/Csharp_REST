@@ -113,4 +113,4 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 
 ## Лицензия
 
-Этот проект лицензируется по лицензии MIT. Подробности можно найти в файле [LICENSE](LICENSE).
+Этот проект лицензируется по лицензии MIT.

@@ -1,3 +1,10 @@
+# API для мастер-класса от Института перспективных технологий (МИРЭА - РТУ)
+Репозитории мастер-класса:
+- [Open-Door-Backend](https://github.com/stasnorman/Open-Door-Backend)
+- [Csharp_REST](https://github.com/stasnorman/Csharp_REST)
+- [PHPApi-easy-and-fast](https://github.com/stasnorman/PHPApi-easy-and-fast)
+
+
 ## Описание проекта
 
 Это REST API для управления интернет-магазином комиксов. API предоставляет функциональность для создания, редактирования, удаления и получения данных о комиксах, а также документацию с помощью Swagger.

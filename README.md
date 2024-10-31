@@ -1,5 +1,4 @@
-# API для мастер-класса от Института перспективных технологий (МИРЭА - РТУ)
-Репозитории мастер-класса:
+# Разработка REST API на PHP (MVC):
 - [Open-Door-Backend](https://github.com/stasnorman/Open-Door-Backend)
 - [Csharp_REST](https://github.com/stasnorman/Csharp_REST)
 - [PHPApi-easy-and-fast](https://github.com/stasnorman/PHPApi-easy-and-fast)
